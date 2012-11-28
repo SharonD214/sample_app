@@ -3,6 +3,7 @@ ruby '1.9.3'
 gem 'rails', '3.2.8'
 #gem 'pg', '0.13.2'
 gem 'heroku'
+gem 'bootstrap-sass', '2.1'
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
